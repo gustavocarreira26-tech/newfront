@@ -1,0 +1,15 @@
+body {
+    background-image: url('download.png');
+    background-size: cover; /* Ajusta a imagem para cobrir a área */
+    background-position: center; /* Centraliza a imagem */
+    background-repeat: no-repeat; /* Não repete a imagem */
+    background-attachment: fixed; /* Fixa a imagem ao rolar a página */
+    height: 100vh; /* Garante que o body tenha a altura da tela */
+    margin: 0;
+}
+h1 {
+  color: #ffffff; /* Altera a cor do título para vermelho */
+}
+p {
+  color: #ffffff; /* Altera a cor do título para vermelho */
+}
